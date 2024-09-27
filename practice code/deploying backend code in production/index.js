@@ -1,4 +1,5 @@
 require('dotenv').config()
+
 // require module syntax 
 const express = require('express')
 // import express from "express" - same as above
