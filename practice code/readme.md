@@ -26,5 +26,17 @@ so, if i write npm run start,
 then npm run ho jayega aur
 index.js file bhi run ho jayegi
 
+- okay so, now sytarting with backend code
+please install express first in your code directory 
+npm install express (express ki documentation refer karo)
+
+about .env file:
+
+.env file mei aap apne variables likhte ho, sensitive variables & those variables jo har system ke liye mainly alag alag hote hai
+
+.env mei mostly log CAPS mei likhte hai
+
+check out dotenv ki documentation
+
 
 ------------13:22------------

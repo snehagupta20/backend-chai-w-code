@@ -11,5 +11,9 @@
     "chai"
   ],
   "author": "sneha gupta",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
 }
