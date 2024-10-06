@@ -84,3 +84,9 @@ async function fetchdata(){
 ## why need async & await for db functions?
 - avoid callback - complex nesting. also known as "callback hell"
 - try/catch block with async func
+
+
+# process.exit()
+- terminates node.js process immediately
+- exit code : 0 means success & non zero code indicates program exited due to an error
+- can be usefull in situations where critical err occurs
