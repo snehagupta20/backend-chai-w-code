@@ -45,7 +45,7 @@ u should not connect db in 1 line
 
 # constants.js
 - define & store constant values
-- .env mei bhi we store constants but its for different purpose
+- .env mei bhi we store constants but its for different purpose 
 - .env is mainly for sensitive info - like api keys, db credentials, URLs
 
 # async & await
@@ -90,3 +90,18 @@ async function fetchdata(){
 - terminates node.js process immediately
 - exit code : 0 means success & non zero code indicates program exited due to an error
 - can be usefull in situations where critical err occurs
+
+
+# cookie-parser
+- parses cookies attached to client reqs
+- easier to read & manipulate cookies
+
+# cors
+- cross origin resource sharing 
+- implemented by browser - controls how resources (APIs) can be accessed from diff origins
+
+# custom API response
+# error handling
+# middleware setup
+# classes defined for custom apis
+# concept of 'next' in middleware
