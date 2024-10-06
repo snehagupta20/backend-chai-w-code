@@ -100,8 +100,4 @@ async function fetchdata(){
 - cross origin resource sharing 
 - implemented by browser - controls how resources (APIs) can be accessed from diff origins
 
-# custom API response
-# error handling
-# middleware setup
-# classes defined for custom apis
-# concept of 'next' in middleware
+
