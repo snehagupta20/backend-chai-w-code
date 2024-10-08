@@ -106,3 +106,7 @@ async function fetchdata(){
 - difference?
 - helps to hash ur pass
 - npm i bcrypt jsonwebtoken
+
+# jwt
+- bearer token
+- key
