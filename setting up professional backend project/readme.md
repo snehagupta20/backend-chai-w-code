@@ -101,3 +101,8 @@ async function fetchdata(){
 - implemented by browser - controls how resources (APIs) can be accessed from diff origins
 
 
+# bcrypt vs bcrypt.js
+- same
+- difference?
+- helps to hash ur pass
+- npm i bcrypt jsonwebtoken
