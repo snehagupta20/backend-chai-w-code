@@ -158,3 +158,7 @@ Correctly configuring CORS is crucial to ensure smooth communication between you
 - **Dynamic Configuration:** Use environment variables to switch between configurations for different environments.
 
 This setup ensures that your backend is securely configured to allow the right origins to access the resources, preventing any CORS-related issues while keeping your app secure and functional.
+
+
+# middleware 
+- middleware be like - vo kaam karne se phele merse milke jana 

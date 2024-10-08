@@ -110,3 +110,6 @@ async function fetchdata(){
 # jwt
 - bearer token
 - key
+
+# cloudnary 
+- 
