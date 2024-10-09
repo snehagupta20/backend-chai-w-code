@@ -115,3 +115,8 @@ async function fetchdata(){
 - what is cloudinary?
 
 # multer
+
+# fs
+- file sys
+- by default in node.js
+- read, delete, etc 
